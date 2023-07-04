@@ -1,0 +1,15 @@
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Accessing Private Variable\obj\Debug\net7.0\Accessing private variable.csproj.AssemblyReference.cache
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Accessing Private Variable\obj\Debug\net7.0\Accessing private variable.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Accessing Private Variable\obj\Debug\net7.0\Accessing private variable.AssemblyInfoInputs.cache
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Accessing Private Variable\obj\Debug\net7.0\Accessing private variable.AssemblyInfo.cs
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Accessing Private Variable\obj\Debug\net7.0\Accessing private variable.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Accessing Private Variable\bin\Debug\net7.0\Accessing Private Variable.exe
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Accessing Private Variable\bin\Debug\net7.0\Accessing Private Variable.deps.json
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Accessing Private Variable\bin\Debug\net7.0\Accessing Private Variable.runtimeconfig.json
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Accessing Private Variable\bin\Debug\net7.0\Accessing Private Variable.dll
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Accessing Private Variable\bin\Debug\net7.0\Accessing Private Variable.pdb
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Accessing Private Variable\obj\Debug\net7.0\Accessing Private Variable.dll
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Accessing Private Variable\obj\Debug\net7.0\refint\Accessing Private Variable.dll
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Accessing Private Variable\obj\Debug\net7.0\Accessing Private Variable.pdb
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Accessing Private Variable\obj\Debug\net7.0\Accessing Private Variable.genruntimeconfig.cache
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Accessing Private Variable\obj\Debug\net7.0\ref\Accessing Private Variable.dll

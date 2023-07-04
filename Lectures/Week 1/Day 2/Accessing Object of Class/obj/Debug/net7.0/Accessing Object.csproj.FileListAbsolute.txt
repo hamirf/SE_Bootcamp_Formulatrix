@@ -1,0 +1,15 @@
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Accessing Object of Class\bin\Debug\net7.0\Accessing Object.exe
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Accessing Object of Class\bin\Debug\net7.0\Accessing Object.deps.json
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Accessing Object of Class\bin\Debug\net7.0\Accessing Object.runtimeconfig.json
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Accessing Object of Class\bin\Debug\net7.0\Accessing Object.dll
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Accessing Object of Class\bin\Debug\net7.0\Accessing Object.pdb
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Accessing Object of Class\obj\Debug\net7.0\Accessing Object.csproj.AssemblyReference.cache
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Accessing Object of Class\obj\Debug\net7.0\Accessing Object.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Accessing Object of Class\obj\Debug\net7.0\Accessing Object.AssemblyInfoInputs.cache
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Accessing Object of Class\obj\Debug\net7.0\Accessing Object.AssemblyInfo.cs
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Accessing Object of Class\obj\Debug\net7.0\Accessing Object.csproj.CoreCompileInputs.cache
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Accessing Object of Class\obj\Debug\net7.0\Accessing Object.dll
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Accessing Object of Class\obj\Debug\net7.0\refint\Accessing Object.dll
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Accessing Object of Class\obj\Debug\net7.0\Accessing Object.pdb
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Accessing Object of Class\obj\Debug\net7.0\Accessing Object.genruntimeconfig.cache
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Accessing Object of Class\obj\Debug\net7.0\ref\Accessing Object.dll

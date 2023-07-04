@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Static Modifier\bin\Debug\net7.0\Static Modifier.exe
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Static Modifier\bin\Debug\net7.0\Static Modifier.deps.json
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Static Modifier\bin\Debug\net7.0\Static Modifier.runtimeconfig.json
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Static Modifier\bin\Debug\net7.0\Static Modifier.dll
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Static Modifier\bin\Debug\net7.0\Static Modifier.pdb
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Static Modifier\obj\Debug\net7.0\Static Modifier.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Static Modifier\obj\Debug\net7.0\Static Modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Static Modifier\obj\Debug\net7.0\Static Modifier.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Static Modifier\obj\Debug\net7.0\Static Modifier.AssemblyInfo.cs
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Static Modifier\obj\Debug\net7.0\Static Modifier.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Static Modifier\obj\Debug\net7.0\Static Modifier.dll
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Static Modifier\obj\Debug\net7.0\refint\Static Modifier.dll
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Static Modifier\obj\Debug\net7.0\Static Modifier.pdb
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Static Modifier\obj\Debug\net7.0\Static Modifier.genruntimeconfig.cache
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Lectures\Week 1\Day 2\Static Modifier\obj\Debug\net7.0\ref\Static Modifier.dll
