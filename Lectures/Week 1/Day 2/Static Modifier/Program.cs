@@ -2,7 +2,7 @@
 
 class Program
 {
-    static void Main()
+    static void Mainin()
     {
         // int a = 1;
         // int b = 2;

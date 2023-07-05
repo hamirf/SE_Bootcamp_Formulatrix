@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Single Inheritance Concrete Class\obj\Debug\net7.0\Single Inheritance Concrete Class.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Single Inheritance Concrete Class\obj\Debug\net7.0\Single Inheritance Concrete Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Single Inheritance Concrete Class\obj\Debug\net7.0\Single Inheritance Concrete Class.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Single Inheritance Concrete Class\obj\Debug\net7.0\Single Inheritance Concrete Class.AssemblyInfo.cs
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Single Inheritance Concrete Class\obj\Debug\net7.0\Single Inheritance Concrete Class.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Single Inheritance Concrete Class\bin\Debug\net7.0\Single Inheritance Concrete Class.exe
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Single Inheritance Concrete Class\bin\Debug\net7.0\Single Inheritance Concrete Class.deps.json
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Single Inheritance Concrete Class\bin\Debug\net7.0\Single Inheritance Concrete Class.runtimeconfig.json
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Single Inheritance Concrete Class\bin\Debug\net7.0\Single Inheritance Concrete Class.dll
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Single Inheritance Concrete Class\bin\Debug\net7.0\Single Inheritance Concrete Class.pdb
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Single Inheritance Concrete Class\obj\Debug\net7.0\Single Inheritance Concrete Class.dll
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Single Inheritance Concrete Class\obj\Debug\net7.0\refint\Single Inheritance Concrete Class.dll
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Single Inheritance Concrete Class\obj\Debug\net7.0\Single Inheritance Concrete Class.pdb
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Single Inheritance Concrete Class\obj\Debug\net7.0\Single Inheritance Concrete Class.genruntimeconfig.cache
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\Single Inheritance Concrete Class\obj\Debug\net7.0\ref\Single Inheritance Concrete Class.dll
