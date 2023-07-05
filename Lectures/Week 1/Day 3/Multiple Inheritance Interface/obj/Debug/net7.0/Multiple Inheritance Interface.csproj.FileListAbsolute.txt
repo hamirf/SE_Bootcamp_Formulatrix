@@ -1,0 +1,15 @@
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 3\Multiple Inheritance Interface\bin\Debug\net7.0\Multiple Inheritance Interface.exe
+c:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 3\Multiple Inheritance Interface\bin\Debug\net7.0\Multiple Inheritance Interface.deps.json
+c:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 3\Multiple Inheritance Interface\bin\Debug\net7.0\Multiple Inheritance Interface.runtimeconfig.json
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 3\Multiple Inheritance Interface\bin\Debug\net7.0\Multiple Inheritance Interface.dll
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 3\Multiple Inheritance Interface\bin\Debug\net7.0\Multiple Inheritance Interface.pdb
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 3\Multiple Inheritance Interface\obj\Debug\net7.0\Multiple Inheritance Interface.csproj.AssemblyReference.cache
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 3\Multiple Inheritance Interface\obj\Debug\net7.0\Multiple Inheritance Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 3\Multiple Inheritance Interface\obj\Debug\net7.0\Multiple Inheritance Interface.AssemblyInfoInputs.cache
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 3\Multiple Inheritance Interface\obj\Debug\net7.0\Multiple Inheritance Interface.AssemblyInfo.cs
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 3\Multiple Inheritance Interface\obj\Debug\net7.0\Multiple Inheritance Interface.csproj.CoreCompileInputs.cache
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 3\Multiple Inheritance Interface\obj\Debug\net7.0\Multiple Inheritance Interface.dll
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 3\Multiple Inheritance Interface\obj\Debug\net7.0\refint\Multiple Inheritance Interface.dll
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 3\Multiple Inheritance Interface\obj\Debug\net7.0\Multiple Inheritance Interface.pdb
+c:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 3\Multiple Inheritance Interface\obj\Debug\net7.0\Multiple Inheritance Interface.genruntimeconfig.cache
+c:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 3\Multiple Inheritance Interface\obj\Debug\net7.0\ref\Multiple Inheritance Interface.dll
