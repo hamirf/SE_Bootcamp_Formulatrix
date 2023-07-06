@@ -1,0 +1,15 @@
+C:\GitHub\SE_Bootcamp_Formulatrix\006_Dynamic\bin\Debug\net7.0\006_Dynamic.exe
+c:\GitHub\SE_Bootcamp_Formulatrix\006_Dynamic\bin\Debug\net7.0\006_Dynamic.deps.json
+c:\GitHub\SE_Bootcamp_Formulatrix\006_Dynamic\bin\Debug\net7.0\006_Dynamic.runtimeconfig.json
+C:\GitHub\SE_Bootcamp_Formulatrix\006_Dynamic\bin\Debug\net7.0\006_Dynamic.dll
+C:\GitHub\SE_Bootcamp_Formulatrix\006_Dynamic\bin\Debug\net7.0\006_Dynamic.pdb
+C:\GitHub\SE_Bootcamp_Formulatrix\006_Dynamic\obj\Debug\net7.0\006_Dynamic.csproj.AssemblyReference.cache
+C:\GitHub\SE_Bootcamp_Formulatrix\006_Dynamic\obj\Debug\net7.0\006_Dynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\SE_Bootcamp_Formulatrix\006_Dynamic\obj\Debug\net7.0\006_Dynamic.AssemblyInfoInputs.cache
+C:\GitHub\SE_Bootcamp_Formulatrix\006_Dynamic\obj\Debug\net7.0\006_Dynamic.AssemblyInfo.cs
+C:\GitHub\SE_Bootcamp_Formulatrix\006_Dynamic\obj\Debug\net7.0\006_Dynamic.csproj.CoreCompileInputs.cache
+C:\GitHub\SE_Bootcamp_Formulatrix\006_Dynamic\obj\Debug\net7.0\006_Dynamic.dll
+C:\GitHub\SE_Bootcamp_Formulatrix\006_Dynamic\obj\Debug\net7.0\refint\006_Dynamic.dll
+C:\GitHub\SE_Bootcamp_Formulatrix\006_Dynamic\obj\Debug\net7.0\006_Dynamic.pdb
+c:\GitHub\SE_Bootcamp_Formulatrix\006_Dynamic\obj\Debug\net7.0\006_Dynamic.genruntimeconfig.cache
+c:\GitHub\SE_Bootcamp_Formulatrix\006_Dynamic\obj\Debug\net7.0\ref\006_Dynamic.dll
