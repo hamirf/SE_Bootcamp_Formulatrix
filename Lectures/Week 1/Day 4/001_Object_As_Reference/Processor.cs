@@ -5,4 +5,11 @@ public class Processor
     public string? brand;
     public int core;
     public int thread;
+
+    public Processor(string brand, int core, int thread)
+    {
+        this.brand = brand;
+        this.core = core;
+        this.thread = thread;
+    }
 }

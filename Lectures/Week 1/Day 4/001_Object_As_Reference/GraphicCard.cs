@@ -6,4 +6,12 @@ public class GraphicCard
     public string? vendor;
     public string? series;
     public int vRAM;
+
+    public GraphicCard(string brand, string vendor, string series, int vRAM)
+    {
+        this.brand = brand;
+        this.vendor = vendor;
+        this.series = series;
+        this.vRAM = vRAM;
+    }
 }
