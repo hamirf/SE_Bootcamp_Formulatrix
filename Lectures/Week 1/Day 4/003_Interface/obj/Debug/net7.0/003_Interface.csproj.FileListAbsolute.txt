@@ -1,0 +1,15 @@
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 4\003_Interface\bin\Debug\net7.0\003_Interface.exe
+c:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 4\003_Interface\bin\Debug\net7.0\003_Interface.deps.json
+c:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 4\003_Interface\bin\Debug\net7.0\003_Interface.runtimeconfig.json
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 4\003_Interface\bin\Debug\net7.0\003_Interface.dll
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 4\003_Interface\bin\Debug\net7.0\003_Interface.pdb
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 4\003_Interface\obj\Debug\net7.0\003_Interface.csproj.AssemblyReference.cache
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 4\003_Interface\obj\Debug\net7.0\003_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 4\003_Interface\obj\Debug\net7.0\003_Interface.AssemblyInfoInputs.cache
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 4\003_Interface\obj\Debug\net7.0\003_Interface.AssemblyInfo.cs
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 4\003_Interface\obj\Debug\net7.0\003_Interface.csproj.CoreCompileInputs.cache
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 4\003_Interface\obj\Debug\net7.0\003_Interface.dll
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 4\003_Interface\obj\Debug\net7.0\refint\003_Interface.dll
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 4\003_Interface\obj\Debug\net7.0\003_Interface.pdb
+c:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 4\003_Interface\obj\Debug\net7.0\003_Interface.genruntimeconfig.cache
+c:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 4\003_Interface\obj\Debug\net7.0\ref\003_Interface.dll
