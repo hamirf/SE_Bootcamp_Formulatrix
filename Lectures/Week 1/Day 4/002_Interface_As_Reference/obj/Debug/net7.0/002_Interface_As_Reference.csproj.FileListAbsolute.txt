@@ -3,3 +3,18 @@ C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\002_Interface_As_Refer
 C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\002_Interface_As_Reference\obj\Debug\net7.0\002_Interface_As_Reference.AssemblyInfoInputs.cache
 C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\002_Interface_As_Reference\obj\Debug\net7.0\002_Interface_As_Reference.AssemblyInfo.cs
 C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\002_Interface_As_Reference\obj\Debug\net7.0\002_Interface_As_Reference.csproj.CoreCompileInputs.cache
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 4\002_Interface_As_Reference\bin\Debug\net7.0\002_Interface_As_Reference.exe
+c:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 4\002_Interface_As_Reference\bin\Debug\net7.0\002_Interface_As_Reference.deps.json
+c:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 4\002_Interface_As_Reference\bin\Debug\net7.0\002_Interface_As_Reference.runtimeconfig.json
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 4\002_Interface_As_Reference\bin\Debug\net7.0\002_Interface_As_Reference.dll
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 4\002_Interface_As_Reference\bin\Debug\net7.0\002_Interface_As_Reference.pdb
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 4\002_Interface_As_Reference\obj\Debug\net7.0\002_Interface_As_Reference.csproj.AssemblyReference.cache
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 4\002_Interface_As_Reference\obj\Debug\net7.0\002_Interface_As_Reference.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 4\002_Interface_As_Reference\obj\Debug\net7.0\002_Interface_As_Reference.AssemblyInfoInputs.cache
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 4\002_Interface_As_Reference\obj\Debug\net7.0\002_Interface_As_Reference.AssemblyInfo.cs
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 4\002_Interface_As_Reference\obj\Debug\net7.0\002_Interface_As_Reference.csproj.CoreCompileInputs.cache
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 4\002_Interface_As_Reference\obj\Debug\net7.0\002_Interface_As_Reference.dll
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 4\002_Interface_As_Reference\obj\Debug\net7.0\refint\002_Interface_As_Reference.dll
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 4\002_Interface_As_Reference\obj\Debug\net7.0\002_Interface_As_Reference.pdb
+c:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 4\002_Interface_As_Reference\obj\Debug\net7.0\002_Interface_As_Reference.genruntimeconfig.cache
+c:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 4\002_Interface_As_Reference\obj\Debug\net7.0\ref\002_Interface_As_Reference.dll

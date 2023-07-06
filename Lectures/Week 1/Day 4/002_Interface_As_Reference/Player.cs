@@ -8,12 +8,16 @@ public class Player
     public IMount mount;
     public IPet pet;
 
-    public Player(IPlayerClass playerClass, IWeapon weapon, IArmor armor, IMount mount, IPet pet)
+    public string playerName;
+
+    public Player(string playerName, IPlayerClass playerClass, IWeapon weapon, IArmor armor, IMount mount, IPet pet)
     {
+        this.playerName = playerName;
         this.playerClass = playerClass;
         this.weapon = weapon;
         this.armor = armor;
         this.mount = mount;
         this.pet = pet;
     }
+
 }

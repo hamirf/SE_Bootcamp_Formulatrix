@@ -2,13 +2,19 @@ namespace _002_Interface_As_Reference;
 
 public class Warrior : IPlayerClass
 {
-    public void PlayerAttack()
+    public string className;
+
+    public Warrior(string className)
     {
-        Console.WriteLine("Warrior attacks with sword");
+        this.className = className;
+    }
+    public string PlayerAttack()
+    {
+        return "Attack with a greatsword";
     }
 
-    public void PlayerSkill()
+    public string PlayerSkill()
     {
-        Console.WriteLine("Warrior uses Heavy Slash");
+        return "Heavy Slash";
     }
 }

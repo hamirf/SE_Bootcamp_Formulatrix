@@ -2,18 +2,18 @@ namespace _002_Interface_As_Reference;
 
 public class Greatsword : IWeapon
 {
-    public void AttackRange()
+    public string AttackRange()
     {
-        Console.WriteLine("Greatsword attack range is melee");
+        return "Greatsword attack range is melee";
     }
 
-    public void WeaponClass()
+    public string WeaponClass()
     {
-        Console.WriteLine("Greatsword only used by Warrior Class");
+        return "Greatsword only used by Warrior Class";
     }
 
-    public void WeaponVulnerability()
+    public string WeaponVulnerability()
     {
-        Console.WriteLine("Greatsword vulnerability now is 75%");
+        return "Greatsword vulnerability now is 75%";
     }
 }
