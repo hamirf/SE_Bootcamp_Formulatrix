@@ -5,13 +5,13 @@ class Program
     static void Main()
     {
         Pikachu pikachu = new Pikachu();
-        pikachu.eat();
-        pikachu.evolve();
-        pikachu.cry();
+        pikachu.Eat();
+        pikachu.Evolve();
+        pikachu.Cry();
 
         Charmeleon charmeleon = new Charmeleon();
-        charmeleon.eat();
-        charmeleon.evolve();
-        charmeleon.cry();
+        charmeleon.Eat();
+        charmeleon.Evolve();
+        charmeleon.Cry();
     }
 }

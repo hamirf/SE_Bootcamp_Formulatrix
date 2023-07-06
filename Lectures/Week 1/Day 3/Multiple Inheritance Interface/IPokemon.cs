@@ -1,39 +1,39 @@
 namespace Pocket_Monster;
 
-public interface Pokemon
+public interface IPokemon
 {
-    public void eat();
-    public void evolve();
-    public void cry();
+    public void Eat();
+    public void Evolve();
+    public void Cry();
 }
 
-public class Pikachu : Pokemon
+public class Pikachu : IPokemon
 {
-    public void eat()
+    public void Eat()
     {
         Console.WriteLine("Pikachu eating meat");
     }
-    public void evolve()
+    public void Evolve()
     {
         Console.WriteLine("Pikachu evolving to Raichu using Thunder Stone");
     }
-    public void cry()
+    public void Cry()
     {
         Console.WriteLine("Pika Pika~~");
     }
 }
 
-public class Charmeleon : Pokemon
+public class Charmeleon : IPokemon
 {
-    public void eat()
+    public void Eat()
     {
         Console.WriteLine("Charmeleon eating together with Pikachu");
     }
-    public void evolve()
+    public void Evolve()
     {
         Console.WriteLine("Charmeleon evolving to Charizard after winning some battle");
     }
-    public void cry()
+    public void Cry()
     {
         Console.WriteLine("Chaaaaar!!");
     }
