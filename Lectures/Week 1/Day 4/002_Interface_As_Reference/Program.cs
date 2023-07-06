@@ -11,6 +11,5 @@ class Program
         Mule mule = new Mule();
 
         Player haiqi = new Player(warrior, greatsword, plate, mule, chimera);
-        haiqi.PlayerAttack();
     }
 }
