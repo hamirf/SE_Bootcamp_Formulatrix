@@ -1,0 +1,5 @@
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\002_Interface_As_Reference\obj\Debug\net7.0\002_Interface_As_Reference.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\002_Interface_As_Reference\obj\Debug\net7.0\002_Interface_As_Reference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\002_Interface_As_Reference\obj\Debug\net7.0\002_Interface_As_Reference.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\002_Interface_As_Reference\obj\Debug\net7.0\002_Interface_As_Reference.AssemblyInfo.cs
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\002_Interface_As_Reference\obj\Debug\net7.0\002_Interface_As_Reference.csproj.CoreCompileInputs.cache

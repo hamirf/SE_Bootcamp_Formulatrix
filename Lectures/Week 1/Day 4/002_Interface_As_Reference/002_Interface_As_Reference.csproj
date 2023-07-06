@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>_002_Interface_As_Reference</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="Interface\IWeapon.cs" />
+    <Content Include="Interface\IMount.cs" />
+    <Content Include="Player.cs" />
+    <Content Include="Interface\IPet.cs" />
+    <Content Include="Warrior.cs" />
+    <Content Include="Greatsword.cs" />
+    <Content Include="Program.cs" />
+    <Content Include="Chimera.cs" />
+    <Content Include="Plate.cs" />
+    <Content Include="Mule.cs" />
+  </ItemGroup>
+</Project>
