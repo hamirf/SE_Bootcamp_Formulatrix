@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\006_Generic_Class\\006_Generic_Class.csproj": {}
+    "c:\\GitHub\\SE_Bootcamp_Formulatrix\\Lectures\\Week 1\\Day 5\\006_Generic_Class\\006_Generic_Class.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\006_Generic_Class\\006_Generic_Class.csproj": {
+    "c:\\GitHub\\SE_Bootcamp_Formulatrix\\Lectures\\Week 1\\Day 5\\006_Generic_Class\\006_Generic_Class.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\006_Generic_Class\\006_Generic_Class.csproj",
+        "projectUniqueName": "c:\\GitHub\\SE_Bootcamp_Formulatrix\\Lectures\\Week 1\\Day 5\\006_Generic_Class\\006_Generic_Class.csproj",
         "projectName": "006_Generic_Class",
-        "projectPath": "c:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\006_Generic_Class\\006_Generic_Class.csproj",
-        "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\006_Generic_Class\\obj\\",
+        "projectPath": "c:\\GitHub\\SE_Bootcamp_Formulatrix\\Lectures\\Week 1\\Day 5\\006_Generic_Class\\006_Generic_Class.csproj",
+        "packagesPath": "C:\\Users\\HBF\\.nuget\\packages\\",
+        "outputPath": "c:\\GitHub\\SE_Bootcamp_Formulatrix\\Lectures\\Week 1\\Day 5\\006_Generic_Class\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Batch 3\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\HBF\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
         }
       }
     }

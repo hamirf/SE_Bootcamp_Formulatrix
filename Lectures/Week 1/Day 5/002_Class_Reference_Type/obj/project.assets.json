@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Batch 3\\.nuget\\packages\\": {}
+    "C:\\Users\\HBF\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\002_Class_Reference_Type\\002_Class_Reference_Type.csproj",
+      "projectUniqueName": "c:\\GitHub\\SE_Bootcamp_Formulatrix\\Lectures\\Week 1\\Day 5\\002_Class_Reference_Type\\002_Class_Reference_Type.csproj",
       "projectName": "002_Class_Reference_Type",
-      "projectPath": "C:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\002_Class_Reference_Type\\002_Class_Reference_Type.csproj",
-      "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\002_Class_Reference_Type\\obj\\",
+      "projectPath": "c:\\GitHub\\SE_Bootcamp_Formulatrix\\Lectures\\Week 1\\Day 5\\002_Class_Reference_Type\\002_Class_Reference_Type.csproj",
+      "packagesPath": "C:\\Users\\HBF\\.nuget\\packages\\",
+      "outputPath": "c:\\GitHub\\SE_Bootcamp_Formulatrix\\Lectures\\Week 1\\Day 5\\002_Class_Reference_Type\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Batch 3\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\HBF\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
       }
     }
   }

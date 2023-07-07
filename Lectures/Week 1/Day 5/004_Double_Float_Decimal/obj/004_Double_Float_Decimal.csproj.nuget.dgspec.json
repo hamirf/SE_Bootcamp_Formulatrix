@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\004_Double_Float_Decimal\\004_Double_Float_Decimal.csproj": {}
+    "c:\\GitHub\\SE_Bootcamp_Formulatrix\\Lectures\\Week 1\\Day 5\\004_Double_Float_Decimal\\004_Double_Float_Decimal.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\004_Double_Float_Decimal\\004_Double_Float_Decimal.csproj": {
+    "c:\\GitHub\\SE_Bootcamp_Formulatrix\\Lectures\\Week 1\\Day 5\\004_Double_Float_Decimal\\004_Double_Float_Decimal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\004_Double_Float_Decimal\\004_Double_Float_Decimal.csproj",
+        "projectUniqueName": "c:\\GitHub\\SE_Bootcamp_Formulatrix\\Lectures\\Week 1\\Day 5\\004_Double_Float_Decimal\\004_Double_Float_Decimal.csproj",
         "projectName": "004_Double_Float_Decimal",
-        "projectPath": "c:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\004_Double_Float_Decimal\\004_Double_Float_Decimal.csproj",
-        "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\004_Double_Float_Decimal\\obj\\",
+        "projectPath": "c:\\GitHub\\SE_Bootcamp_Formulatrix\\Lectures\\Week 1\\Day 5\\004_Double_Float_Decimal\\004_Double_Float_Decimal.csproj",
+        "packagesPath": "C:\\Users\\HBF\\.nuget\\packages\\",
+        "outputPath": "c:\\GitHub\\SE_Bootcamp_Formulatrix\\Lectures\\Week 1\\Day 5\\004_Double_Float_Decimal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Batch 3\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\HBF\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
         }
       }
     }
