@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\003_Class_Immutable_Types\bin\Debug\net7.0\003_Class_Immutable_Types.exe
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\003_Class_Immutable_Types\bin\Debug\net7.0\003_Class_Immutable_Types.deps.json
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\003_Class_Immutable_Types\bin\Debug\net7.0\003_Class_Immutable_Types.runtimeconfig.json
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\003_Class_Immutable_Types\bin\Debug\net7.0\003_Class_Immutable_Types.dll
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\003_Class_Immutable_Types\bin\Debug\net7.0\003_Class_Immutable_Types.pdb
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\003_Class_Immutable_Types\obj\Debug\net7.0\003_Class_Immutable_Types.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\003_Class_Immutable_Types\obj\Debug\net7.0\003_Class_Immutable_Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\003_Class_Immutable_Types\obj\Debug\net7.0\003_Class_Immutable_Types.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\003_Class_Immutable_Types\obj\Debug\net7.0\003_Class_Immutable_Types.AssemblyInfo.cs
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\003_Class_Immutable_Types\obj\Debug\net7.0\003_Class_Immutable_Types.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\003_Class_Immutable_Types\obj\Debug\net7.0\003_Class_Immutable_Types.dll
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\003_Class_Immutable_Types\obj\Debug\net7.0\refint\003_Class_Immutable_Types.dll
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\003_Class_Immutable_Types\obj\Debug\net7.0\003_Class_Immutable_Types.pdb
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\003_Class_Immutable_Types\obj\Debug\net7.0\003_Class_Immutable_Types.genruntimeconfig.cache
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\003_Class_Immutable_Types\obj\Debug\net7.0\ref\003_Class_Immutable_Types.dll

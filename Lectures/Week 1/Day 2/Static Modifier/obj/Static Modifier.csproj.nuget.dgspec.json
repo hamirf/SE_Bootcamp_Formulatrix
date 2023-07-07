@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Lectures\\Week 1\\Day 2\\Static Modifier\\Static Modifier.csproj": {}
+    "c:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Lectures\\Week 1\\Day 2\\Static Modifier\\Static Modifier.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Lectures\\Week 1\\Day 2\\Static Modifier\\Static Modifier.csproj": {
+    "c:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Lectures\\Week 1\\Day 2\\Static Modifier\\Static Modifier.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Lectures\\Week 1\\Day 2\\Static Modifier\\Static Modifier.csproj",
+        "projectUniqueName": "c:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Lectures\\Week 1\\Day 2\\Static Modifier\\Static Modifier.csproj",
         "projectName": "Static Modifier",
-        "projectPath": "C:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Lectures\\Week 1\\Day 2\\Static Modifier\\Static Modifier.csproj",
+        "projectPath": "c:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Lectures\\Week 1\\Day 2\\Static Modifier\\Static Modifier.csproj",
         "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Lectures\\Week 1\\Day 2\\Static Modifier\\obj\\",
+        "outputPath": "c:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Lectures\\Week 1\\Day 2\\Static Modifier\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 3\\AppData\\Roaming\\NuGet\\NuGet.Config"

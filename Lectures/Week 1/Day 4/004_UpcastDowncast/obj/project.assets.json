@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\HBF\\.nuget\\packages\\": {}
+    "C:\\Users\\Batch 3\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\SE_Bootcamp_Formulatrix\\004_UpcastDowncast\\004_UpcastDowncast.csproj",
+      "projectUniqueName": "c:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Lectures\\Week 1\\Day 4\\004_UpcastDowncast\\004_UpcastDowncast.csproj",
       "projectName": "004_UpcastDowncast",
-      "projectPath": "C:\\GitHub\\SE_Bootcamp_Formulatrix\\004_UpcastDowncast\\004_UpcastDowncast.csproj",
-      "packagesPath": "C:\\Users\\HBF\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\SE_Bootcamp_Formulatrix\\004_UpcastDowncast\\obj\\",
+      "projectPath": "c:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Lectures\\Week 1\\Day 4\\004_UpcastDowncast\\004_UpcastDowncast.csproj",
+      "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Lectures\\Week 1\\Day 4\\004_UpcastDowncast\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HBF\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Batch 3\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

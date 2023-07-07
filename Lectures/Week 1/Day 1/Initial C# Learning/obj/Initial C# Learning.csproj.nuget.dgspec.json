@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Initial C# Learning\\Initial C# Learning.csproj": {}
+    "c:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Lectures\\Week 1\\Day 1\\Initial C# Learning\\Initial C# Learning.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Initial C# Learning\\Initial C# Learning.csproj": {
+    "c:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Lectures\\Week 1\\Day 1\\Initial C# Learning\\Initial C# Learning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Initial C# Learning\\Initial C# Learning.csproj",
+        "projectUniqueName": "c:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Lectures\\Week 1\\Day 1\\Initial C# Learning\\Initial C# Learning.csproj",
         "projectName": "Initial C# Learning",
-        "projectPath": "C:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Initial C# Learning\\Initial C# Learning.csproj",
+        "projectPath": "c:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Lectures\\Week 1\\Day 1\\Initial C# Learning\\Initial C# Learning.csproj",
         "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Initial C# Learning\\obj\\",
+        "outputPath": "c:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Lectures\\Week 1\\Day 1\\Initial C# Learning\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 3\\AppData\\Roaming\\NuGet\\NuGet.Config"

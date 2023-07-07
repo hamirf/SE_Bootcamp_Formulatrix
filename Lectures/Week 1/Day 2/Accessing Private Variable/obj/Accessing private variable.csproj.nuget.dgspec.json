@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Lectures\\Week 1\\Day 2\\Accessing Private Variable\\Accessing private variable.csproj": {}
+    "c:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Lectures\\Week 1\\Day 2\\Accessing Private Variable\\Accessing Private Variable.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Lectures\\Week 1\\Day 2\\Accessing Private Variable\\Accessing private variable.csproj": {
+    "c:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Lectures\\Week 1\\Day 2\\Accessing Private Variable\\Accessing Private Variable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Lectures\\Week 1\\Day 2\\Accessing Private Variable\\Accessing private variable.csproj",
-        "projectName": "Accessing private variable",
-        "projectPath": "c:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Lectures\\Week 1\\Day 2\\Accessing Private Variable\\Accessing private variable.csproj",
+        "projectUniqueName": "c:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Lectures\\Week 1\\Day 2\\Accessing Private Variable\\Accessing Private Variable.csproj",
+        "projectName": "Accessing Private Variable",
+        "projectPath": "c:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Lectures\\Week 1\\Day 2\\Accessing Private Variable\\Accessing Private Variable.csproj",
         "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
         "outputPath": "c:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Lectures\\Week 1\\Day 2\\Accessing Private Variable\\obj\\",
         "projectStyle": "PackageReference",

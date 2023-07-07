@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Single Inheritance Concrete Class\\Single Inheritance Concrete Class.csproj",
+      "projectUniqueName": "c:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Lectures\\Week 1\\Day 3\\Single Inheritance Concrete Class\\Single Inheritance Concrete Class.csproj",
       "projectName": "Single Inheritance Concrete Class",
-      "projectPath": "C:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Single Inheritance Concrete Class\\Single Inheritance Concrete Class.csproj",
+      "projectPath": "c:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Lectures\\Week 1\\Day 3\\Single Inheritance Concrete Class\\Single Inheritance Concrete Class.csproj",
       "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Single Inheritance Concrete Class\\obj\\",
+      "outputPath": "c:\\Users\\Batch 3\\Documents\\GitHub\\Bootcamp_SE_Formulatrix\\Lectures\\Week 1\\Day 3\\Single Inheritance Concrete Class\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Batch 3\\AppData\\Roaming\\NuGet\\NuGet.Config"

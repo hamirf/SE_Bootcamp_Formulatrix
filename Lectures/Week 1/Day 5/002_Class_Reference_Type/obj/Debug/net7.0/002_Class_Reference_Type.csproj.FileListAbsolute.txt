@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\002_Class_Reference_Type\obj\Debug\net7.0\002_Class_Reference_Type.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\002_Class_Reference_Type\obj\Debug\net7.0\002_Class_Reference_Type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\002_Class_Reference_Type\obj\Debug\net7.0\002_Class_Reference_Type.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\002_Class_Reference_Type\obj\Debug\net7.0\002_Class_Reference_Type.AssemblyInfo.cs
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\002_Class_Reference_Type\obj\Debug\net7.0\002_Class_Reference_Type.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\002_Class_Reference_Type\bin\Debug\net7.0\002_Class_Reference_Type.exe
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\002_Class_Reference_Type\bin\Debug\net7.0\002_Class_Reference_Type.deps.json
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\002_Class_Reference_Type\bin\Debug\net7.0\002_Class_Reference_Type.runtimeconfig.json
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\002_Class_Reference_Type\bin\Debug\net7.0\002_Class_Reference_Type.dll
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\002_Class_Reference_Type\bin\Debug\net7.0\002_Class_Reference_Type.pdb
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\002_Class_Reference_Type\obj\Debug\net7.0\002_Class_Reference_Type.dll
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\002_Class_Reference_Type\obj\Debug\net7.0\refint\002_Class_Reference_Type.dll
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\002_Class_Reference_Type\obj\Debug\net7.0\002_Class_Reference_Type.pdb
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\002_Class_Reference_Type\obj\Debug\net7.0\002_Class_Reference_Type.genruntimeconfig.cache
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\002_Class_Reference_Type\obj\Debug\net7.0\ref\002_Class_Reference_Type.dll
