@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\004_Double_Float_Decimal\bin\Debug\net7.0\004_Double_Float_Decimal.exe
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\004_Double_Float_Decimal\bin\Debug\net7.0\004_Double_Float_Decimal.deps.json
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\004_Double_Float_Decimal\bin\Debug\net7.0\004_Double_Float_Decimal.runtimeconfig.json
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\004_Double_Float_Decimal\bin\Debug\net7.0\004_Double_Float_Decimal.dll
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\004_Double_Float_Decimal\bin\Debug\net7.0\004_Double_Float_Decimal.pdb
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\004_Double_Float_Decimal\obj\Debug\net7.0\004_Double_Float_Decimal.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\004_Double_Float_Decimal\obj\Debug\net7.0\004_Double_Float_Decimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\004_Double_Float_Decimal\obj\Debug\net7.0\004_Double_Float_Decimal.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\004_Double_Float_Decimal\obj\Debug\net7.0\004_Double_Float_Decimal.AssemblyInfo.cs
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\004_Double_Float_Decimal\obj\Debug\net7.0\004_Double_Float_Decimal.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\004_Double_Float_Decimal\obj\Debug\net7.0\004_Double_Float_Decimal.dll
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\004_Double_Float_Decimal\obj\Debug\net7.0\refint\004_Double_Float_Decimal.dll
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\004_Double_Float_Decimal\obj\Debug\net7.0\004_Double_Float_Decimal.pdb
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\004_Double_Float_Decimal\obj\Debug\net7.0\004_Double_Float_Decimal.genruntimeconfig.cache
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\004_Double_Float_Decimal\obj\Debug\net7.0\ref\004_Double_Float_Decimal.dll

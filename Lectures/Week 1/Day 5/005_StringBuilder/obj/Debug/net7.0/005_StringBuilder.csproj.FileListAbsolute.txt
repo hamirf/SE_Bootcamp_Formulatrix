@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\005_StringBuilder\bin\Debug\net7.0\005_StringBuilder.exe
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\005_StringBuilder\bin\Debug\net7.0\005_StringBuilder.deps.json
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\005_StringBuilder\bin\Debug\net7.0\005_StringBuilder.runtimeconfig.json
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\005_StringBuilder\bin\Debug\net7.0\005_StringBuilder.dll
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\005_StringBuilder\bin\Debug\net7.0\005_StringBuilder.pdb
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\005_StringBuilder\obj\Debug\net7.0\005_StringBuilder.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\005_StringBuilder\obj\Debug\net7.0\005_StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\005_StringBuilder\obj\Debug\net7.0\005_StringBuilder.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\005_StringBuilder\obj\Debug\net7.0\005_StringBuilder.AssemblyInfo.cs
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\005_StringBuilder\obj\Debug\net7.0\005_StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\005_StringBuilder\obj\Debug\net7.0\005_StringBuilder.dll
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\005_StringBuilder\obj\Debug\net7.0\refint\005_StringBuilder.dll
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\005_StringBuilder\obj\Debug\net7.0\005_StringBuilder.pdb
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\005_StringBuilder\obj\Debug\net7.0\005_StringBuilder.genruntimeconfig.cache
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\005_StringBuilder\obj\Debug\net7.0\ref\005_StringBuilder.dll
