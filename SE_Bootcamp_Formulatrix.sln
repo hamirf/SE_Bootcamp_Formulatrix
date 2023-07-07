@@ -1,4 +1,4 @@
-
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
@@ -56,6 +56,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Double_Float_Decimal", "Lectures\Week 1\Day 5\004_Double_Float_Decimal\004_Double_Float_Decimal.csproj", "{B74EE820-3D05-4E18-8BCD-8F0DBAD91645}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_StringBuilder", "Lectures\Week 1\Day 5\005_StringBuilder\005_StringBuilder.csproj", "{6FEABB37-2655-49DE-B6C8-A9F5E28CAB9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Generic_Class", "Lectures\Week 1\Day 5\006_Generic_Class\006_Generic_Class.csproj", "{523DCFF7-EC81-48FF-BCF0-DB599B53E2A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Generic_Method", "Lectures\Week 1\Day 5\007_Generic_Method\007_Generic_Method.csproj", "{515E032A-478A-4E27-B9A7-20B4095A1E12}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -146,8 +150,17 @@ Global
 		{6FEABB37-2655-49DE-B6C8-A9F5E28CAB9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FEABB37-2655-49DE-B6C8-A9F5E28CAB9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FEABB37-2655-49DE-B6C8-A9F5E28CAB9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{523DCFF7-EC81-48FF-BCF0-DB599B53E2A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{523DCFF7-EC81-48FF-BCF0-DB599B53E2A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{523DCFF7-EC81-48FF-BCF0-DB599B53E2A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{523DCFF7-EC81-48FF-BCF0-DB599B53E2A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{515E032A-478A-4E27-B9A7-20B4095A1E12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{515E032A-478A-4E27-B9A7-20B4095A1E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{515E032A-478A-4E27-B9A7-20B4095A1E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{515E032A-478A-4E27-B9A7-20B4095A1E12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{523DCFF7-EC81-48FF-BCF0-DB599B53E2A3} = {3FDEBDDC-3DE1-4AD8-A7BB-49DF180E4867}
 		{6FEABB37-2655-49DE-B6C8-A9F5E28CAB9B} = {3FDEBDDC-3DE1-4AD8-A7BB-49DF180E4867}
 		{3FDEBDDC-3DE1-4AD8-A7BB-49DF180E4867} = {7FB84623-D93E-4D0B-88ED-9644D6F59C8E}
 		{B74EE820-3D05-4E18-8BCD-8F0DBAD91645} = {3FDEBDDC-3DE1-4AD8-A7BB-49DF180E4867}

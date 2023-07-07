@@ -1,0 +1,15 @@
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\006_Generic_Class\bin\Debug\net7.0\006_Generic_Class.exe
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\006_Generic_Class\bin\Debug\net7.0\006_Generic_Class.deps.json
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\006_Generic_Class\bin\Debug\net7.0\006_Generic_Class.runtimeconfig.json
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\006_Generic_Class\bin\Debug\net7.0\006_Generic_Class.dll
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\006_Generic_Class\bin\Debug\net7.0\006_Generic_Class.pdb
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\006_Generic_Class\obj\Debug\net7.0\006_Generic_Class.csproj.AssemblyReference.cache
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\006_Generic_Class\obj\Debug\net7.0\006_Generic_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\006_Generic_Class\obj\Debug\net7.0\006_Generic_Class.AssemblyInfoInputs.cache
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\006_Generic_Class\obj\Debug\net7.0\006_Generic_Class.AssemblyInfo.cs
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\006_Generic_Class\obj\Debug\net7.0\006_Generic_Class.csproj.CoreCompileInputs.cache
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\006_Generic_Class\obj\Debug\net7.0\006_Generic_Class.dll
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\006_Generic_Class\obj\Debug\net7.0\refint\006_Generic_Class.dll
+C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\006_Generic_Class\obj\Debug\net7.0\006_Generic_Class.pdb
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\006_Generic_Class\obj\Debug\net7.0\006_Generic_Class.genruntimeconfig.cache
+c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\006_Generic_Class\obj\Debug\net7.0\ref\006_Generic_Class.dll
