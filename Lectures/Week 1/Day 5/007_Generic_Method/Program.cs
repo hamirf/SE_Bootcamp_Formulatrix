@@ -2,22 +2,41 @@
 
 public class ToyBox
 {
-    private object toy;
+    private object _toy;
 
     public void AddToy<T>(T newToy)
     {
-        toy = newToy;
+        _toy = newToy;
     }
 
     public T GetToy<T>()
     {
-        return (T)toy;
+        return (T)_toy;
     }
 }
 class Program
 {
     static void Main()
     {
+        WoodenCrate common = new();
+        WoodenCrate uncommon = new();
+        WoodenCrate rare = new();
+
+        common.AddTreasure<string>("Chimera Neklace");
+        uncommon.AddTreasure<int>(2);
+        // uncommon.AddTreasure<long>(2); // Error, tidak bisa casting
+        rare.AddTreasure<decimal>(4.00M);
+
+        // float notCommon = uncommon.GetTreasure<int>();
+
+        Console.WriteLine(common.GetTreasure<string>());
+        // Console.WriteLine(notCommon);
+        Console.WriteLine(uncommon.GetTreasure<long>()); // (int)2
+        // Console.WriteLine((int)uncommon.GetTreasure<long>());
+        // Console.WriteLine((long)uncommon.GetTreasure<int>());
+        Console.WriteLine(rare.GetTreasure<decimal>());
+        Console.WriteLine("==================");
+
         ToyBox toyBox = new ToyBox();
         ToyBox toyBox1 = new ToyBox();
         ToyBox toyBox2 = new ToyBox();

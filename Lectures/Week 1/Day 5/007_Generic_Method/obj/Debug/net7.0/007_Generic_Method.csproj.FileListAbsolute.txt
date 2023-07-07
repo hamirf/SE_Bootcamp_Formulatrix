@@ -13,3 +13,18 @@ C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\007_Generic_Method\obj
 C:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\007_Generic_Method\obj\Debug\net7.0\007_Generic_Method.pdb
 c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\007_Generic_Method\obj\Debug\net7.0\007_Generic_Method.genruntimeconfig.cache
 c:\Users\Batch 3\Documents\GitHub\Bootcamp_SE_Formulatrix\007_Generic_Method\obj\Debug\net7.0\ref\007_Generic_Method.dll
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 5\007_Generic_Method\bin\Debug\net7.0\007_Generic_Method.exe
+c:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 5\007_Generic_Method\bin\Debug\net7.0\007_Generic_Method.deps.json
+c:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 5\007_Generic_Method\bin\Debug\net7.0\007_Generic_Method.runtimeconfig.json
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 5\007_Generic_Method\bin\Debug\net7.0\007_Generic_Method.dll
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 5\007_Generic_Method\bin\Debug\net7.0\007_Generic_Method.pdb
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 5\007_Generic_Method\obj\Debug\net7.0\007_Generic_Method.csproj.AssemblyReference.cache
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 5\007_Generic_Method\obj\Debug\net7.0\007_Generic_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 5\007_Generic_Method\obj\Debug\net7.0\007_Generic_Method.AssemblyInfoInputs.cache
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 5\007_Generic_Method\obj\Debug\net7.0\007_Generic_Method.AssemblyInfo.cs
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 5\007_Generic_Method\obj\Debug\net7.0\007_Generic_Method.csproj.CoreCompileInputs.cache
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 5\007_Generic_Method\obj\Debug\net7.0\007_Generic_Method.dll
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 5\007_Generic_Method\obj\Debug\net7.0\refint\007_Generic_Method.dll
+C:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 5\007_Generic_Method\obj\Debug\net7.0\007_Generic_Method.pdb
+c:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 5\007_Generic_Method\obj\Debug\net7.0\007_Generic_Method.genruntimeconfig.cache
+c:\GitHub\SE_Bootcamp_Formulatrix\Lectures\Week 1\Day 5\007_Generic_Method\obj\Debug\net7.0\ref\007_Generic_Method.dll
