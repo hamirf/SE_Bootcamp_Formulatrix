@@ -1,2 +1,46 @@
-obj/
-bin/
+Lectures/Week 1/Day 1/.vscode/
+Lectures/Week 1/Day 1/Day 1/obj/
+# Lectures/Week 1/Day 1/Day 1/bin/
+Lectures/Week 1/Day 1/Initial C# Learning/obj/
+# Lectures/Week 1/Day 1/Initial C# Learning/bin/
+Lectures/Week 1/Day 2/.vscode/
+Lectures/Week 1/Day 2/Accessing Object of Class/obj/
+# Lectures/Week 1/Day 2/Accessing Object of Class/bin/
+Lectures/Week 1/Day 2/Accessing Private Variable/obj/
+# Lectures/Week 1/Day 2/Accessing Private Variable/bin/
+Lectures/Week 1/Day 2/Static Modifier/obj/
+# Lectures/Week 1/Day 2/Static Modifier/bin/
+Lectures/Week 1/Day 3/Multiple Inheritance Interface/bin/
+Lectures/Week 1/Day 3/Multiple Inheritance Interface/obj/
+Lectures/Week 1/Day 3/Polymorphism/bin/
+Lectures/Week 1/Day 3/Polymorphism/obj/
+Lectures/Week 1/Day 3/Single Inheritance Abstract Class/bin/
+Lectures/Week 1/Day 3/Single Inheritance Abstract Class/obj/
+Lectures/Week 1/Day 3/Single Inheritance Concrete Class/bin/
+Lectures/Week 1/Day 3/Single Inheritance Concrete Class/obj/
+Lectures/Week 1/Day 4/001_Object_As_Reference/bin/
+Lectures/Week 1/Day 4/001_Object_As_Reference/obj/
+Lectures/Week 1/Day 4/002_Interface_As_Reference/bin/
+Lectures/Week 1/Day 4/002_Interface_As_Reference/obj/
+Lectures/Week 1/Day 4/003_Interface/bin/
+Lectures/Week 1/Day 4/003_Interface/obj/
+Lectures/Week 1/Day 4/004_UpcastDowncast/bin/
+Lectures/Week 1/Day 4/004_UpcastDowncast/obj/
+Lectures/Week 1/Day 4/005_Boxing/bin/
+Lectures/Week 1/Day 4/005_Boxing/obj/
+Lectures/Week 1/Day 4/006_Dynamic/bin/
+Lectures/Week 1/Day 4/006_Dynamic/obj/
+Lectures/Week 1/Day 5/001_Struct/bin/
+Lectures/Week 1/Day 5/001_Struct/obj/
+Lectures/Week 1/Day 5/002_Class_Reference_Type/bin/
+Lectures/Week 1/Day 5/002_Class_Reference_Type/obj/
+Lectures/Week 1/Day 5/003_Class_Immutable_Types/bin/
+Lectures/Week 1/Day 5/003_Class_Immutable_Types/obj/
+Lectures/Week 1/Day 5/004_Double_Float_Decimal/bin/
+Lectures/Week 1/Day 5/004_Double_Float_Decimal/obj/
+Lectures/Week 1/Day 5/005_StringBuilder/bin/
+Lectures/Week 1/Day 5/005_StringBuilder/obj/
+Lectures/Week 1/Day 5/006_Generic_Class/bin/
+Lectures/Week 1/Day 5/006_Generic_Class/obj/
+Lectures/Week 1/Day 5/007_Generic_Method/bin/
+Lectures/Week 1/Day 5/007_Generic_Method/obj/
