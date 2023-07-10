@@ -44,5 +44,5 @@
 # Lectures/Week 1/Day 5/006_Generic_Class/obj/
 # Lectures/Week 1/Day 5/007_Generic_Method/bin/
 # Lectures/Week 1/Day 5/007_Generic_Method/obj/
-**/obj/**
-**/bin/**
+**/obj
+**/bin
