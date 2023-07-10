@@ -10,11 +10,11 @@
         "projectUniqueName": "c:\\GitHub\\SE_Bootcamp_Formulatrix\\Lectures\\Week 1\\Day 4\\002_Interface_As_Reference\\002_Interface_As_Reference.csproj",
         "projectName": "002_Interface_As_Reference",
         "projectPath": "c:\\GitHub\\SE_Bootcamp_Formulatrix\\Lectures\\Week 1\\Day 4\\002_Interface_As_Reference\\002_Interface_As_Reference.csproj",
-        "packagesPath": "C:\\Users\\HBF\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
         "outputPath": "c:\\GitHub\\SE_Bootcamp_Formulatrix\\Lectures\\Week 1\\Day 4\\002_Interface_As_Reference\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HBF\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Batch 3\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -8,7 +8,7 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\HBF\\.nuget\\packages\\": {}
+    "C:\\Users\\Batch 3\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,11 +16,11 @@
       "projectUniqueName": "c:\\GitHub\\SE_Bootcamp_Formulatrix\\Lectures\\Week 1\\Day 2\\Accessing Object of Class\\Accessing Object.csproj",
       "projectName": "Accessing Object",
       "projectPath": "c:\\GitHub\\SE_Bootcamp_Formulatrix\\Lectures\\Week 1\\Day 2\\Accessing Object of Class\\Accessing Object.csproj",
-      "packagesPath": "C:\\Users\\HBF\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
       "outputPath": "c:\\GitHub\\SE_Bootcamp_Formulatrix\\Lectures\\Week 1\\Day 2\\Accessing Object of Class\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HBF\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Batch 3\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
