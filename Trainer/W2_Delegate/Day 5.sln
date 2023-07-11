@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A6a_DelegateforEventButton"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventAnalogy - RepairShop", "EventAnalogy - RepairShop\EventAnalogy - RepairShop.csproj", "{C98700B1-AD50-4B21-9CCE-6C7C98C967BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatch", "TryCatch\TryCatch.csproj", "{8F85CD72-F7D2-4179-A610-10E106A6D81B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -132,5 +134,9 @@ Global
 		{C98700B1-AD50-4B21-9CCE-6C7C98C967BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C98700B1-AD50-4B21-9CCE-6C7C98C967BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C98700B1-AD50-4B21-9CCE-6C7C98C967BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F85CD72-F7D2-4179-A610-10E106A6D81B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F85CD72-F7D2-4179-A610-10E106A6D81B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F85CD72-F7D2-4179-A610-10E106A6D81B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F85CD72-F7D2-4179-A610-10E106A6D81B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
