@@ -1,9 +1,10 @@
 public class HobbyEventArgs : EventArgs
 {
-    public string ItemBought { get; set; }
+    // public string ItemBought { get; set; }
+    public Member Member { get; set; }
 
-    public HobbyEventArgs(string itemBought)
+    public HobbyEventArgs(Member member)
     {
-        ItemBought = itemBought;
+        Member = member;
     }
 }

@@ -3,13 +3,15 @@
     static void Main()
     {
         HobbyShop saiyanShop = new HobbyShop("Saiyan Hobby Shop");
-        Member haidar = new Member("Haidar", "Platinum");
+        Member haidar = new Member("Haidar", "Platinum", "2 Goku Action Figures");
 
         haidar.MemberEnter(saiyanShop);
-        saiyanShop.BuyItem("2 Goku Action Figures");
+        saiyanShop.BuyItem(haidar);
         haidar.MemberExit(saiyanShop);
         Console.WriteLine();
 
-        saiyanShop.BuyItem("Skateboard");
+        Member unknown = new Member(null, "None", "Skateboard");
+
+        saiyanShop.BuyItem(unknown);
     }
 }

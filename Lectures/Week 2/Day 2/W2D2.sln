@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "000_Event", "000_Event\000_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Explore_Event", "006_Explore_Event\006_Explore_Event.csproj", "{5E2D86B6-7629-4EFC-8D32-F9F567D80F75}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_EventAndDelegate", "007_EventAndDelegate\007_EventAndDelegate.csproj", "{C6CD4D05-EC04-457C-A104-077E2E2BE93E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{5E2D86B6-7629-4EFC-8D32-F9F567D80F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E2D86B6-7629-4EFC-8D32-F9F567D80F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E2D86B6-7629-4EFC-8D32-F9F567D80F75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6CD4D05-EC04-457C-A104-077E2E2BE93E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6CD4D05-EC04-457C-A104-077E2E2BE93E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6CD4D05-EC04-457C-A104-077E2E2BE93E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6CD4D05-EC04-457C-A104-077E2E2BE93E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

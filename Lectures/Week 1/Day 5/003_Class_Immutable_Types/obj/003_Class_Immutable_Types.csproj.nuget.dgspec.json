@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\GitHub\\SE_Bootcamp_Formulatrix\\Lectures\\Week 1\\Day 5\\003_Class_Immutable_Types\\003_Class_Immutable_Types.csproj": {}
+    "d:\\GitHub\\SE_Bootcamp_Formulatrix\\Lectures\\Week 1\\Day 5\\003_Class_Immutable_Types\\003_Class_Immutable_Types.csproj": {}
   },
   "projects": {
-    "c:\\GitHub\\SE_Bootcamp_Formulatrix\\Lectures\\Week 1\\Day 5\\003_Class_Immutable_Types\\003_Class_Immutable_Types.csproj": {
+    "d:\\GitHub\\SE_Bootcamp_Formulatrix\\Lectures\\Week 1\\Day 5\\003_Class_Immutable_Types\\003_Class_Immutable_Types.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\GitHub\\SE_Bootcamp_Formulatrix\\Lectures\\Week 1\\Day 5\\003_Class_Immutable_Types\\003_Class_Immutable_Types.csproj",
+        "projectUniqueName": "d:\\GitHub\\SE_Bootcamp_Formulatrix\\Lectures\\Week 1\\Day 5\\003_Class_Immutable_Types\\003_Class_Immutable_Types.csproj",
         "projectName": "003_Class_Immutable_Types",
-        "projectPath": "c:\\GitHub\\SE_Bootcamp_Formulatrix\\Lectures\\Week 1\\Day 5\\003_Class_Immutable_Types\\003_Class_Immutable_Types.csproj",
-        "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
-        "outputPath": "c:\\GitHub\\SE_Bootcamp_Formulatrix\\Lectures\\Week 1\\Day 5\\003_Class_Immutable_Types\\obj\\",
+        "projectPath": "d:\\GitHub\\SE_Bootcamp_Formulatrix\\Lectures\\Week 1\\Day 5\\003_Class_Immutable_Types\\003_Class_Immutable_Types.csproj",
+        "packagesPath": "C:\\Users\\Haidar\\.nuget\\packages\\",
+        "outputPath": "d:\\GitHub\\SE_Bootcamp_Formulatrix\\Lectures\\Week 1\\Day 5\\003_Class_Immutable_Types\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Batch 3\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Haidar\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
         }
       }
     }
