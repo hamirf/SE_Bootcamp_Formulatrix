@@ -9,9 +9,11 @@ class Program
         MailService mailService = new MailService(); // Subscriber
         MessageService messageService = new MessageService(); // Subscriber
 
+        // videoEncoder.Encoding(video);
+
+        // videoEncoder.VideoEncoded -= videoEncoder.EncodingVideo;
         videoEncoder.VideoEncoded += mailService.OnVideoEncoded;
         videoEncoder.VideoEncoded += messageService.OnVideoEncoded;
-
 
         videoEncoder.Encode(video);
     }
