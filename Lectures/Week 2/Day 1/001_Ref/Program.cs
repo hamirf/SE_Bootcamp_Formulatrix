@@ -7,8 +7,11 @@
         int res = Method(num);
         Console.WriteLine(res);
 
-        RefMethod(num);
+        RefMethod(ref num);
         Console.WriteLine(num);
+
+        res = Method(num);
+        Console.WriteLine(res);
     }
 
     static int Method(int x)
@@ -17,9 +20,9 @@
     }
     // Variabel Ref bisa diubah ataupun tidak
     // Variabel Ref bisa juga digunakan untuk perhitungan
-    static void OutMethod(ref int x)
+    static void RefMethod(ref int x)
     {
-        return x + 7;
+        x += 7;
     }
 }
 
