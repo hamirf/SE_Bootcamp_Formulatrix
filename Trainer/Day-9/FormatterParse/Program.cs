@@ -9,12 +9,15 @@ class Program
 
         // Display the number formatted as currency with two decimal places
         Console.WriteLine("Currency format: {0:C2}", number);
+        System.Console.WriteLine("==========1==========");
 
         // Display the number formatted with a thousands separator
         Console.WriteLine("Number format with separator: {0:N}", number);
+        System.Console.WriteLine("==========2==========");
 
         // Display the number formatted with a custom format string to three decimal places
         Console.WriteLine("Number format with custom string: {0:0.000}", number);
+        System.Console.WriteLine("==========3==========");
 
         // Parsing example
         string input = "1234.56";
@@ -24,11 +27,13 @@ class Program
 
         // Display the parsed result formatted as currency with two decimal places
         Console.WriteLine("Parsed result as currency: {0:C2}", result);
+        System.Console.WriteLine("==========4==========");
 
         // Parse the input string as an integer
         double result2 = double.Parse(input);
 
         // Display the parsed result formatted as a number with a thousands separator
         Console.WriteLine("Parsed result as number: {0:N0}", result2);
+        System.Console.WriteLine("==========5==========");
     }
 }
