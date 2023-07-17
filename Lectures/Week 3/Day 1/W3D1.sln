@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accessing Private Variable", "Accessing Private Variable\Accessing Private Variable.csproj", "{4942F009-5870-4AE0-B808-63DB3CC3FBBA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Explore_Collection", "001_Explore_Collection\001_Explore_Collection.csproj", "{8D9AC5F3-6EFA-4B51-A13A-BD7040DDA9FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,9 +14,9 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4942F009-5870-4AE0-B808-63DB3CC3FBBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4942F009-5870-4AE0-B808-63DB3CC3FBBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4942F009-5870-4AE0-B808-63DB3CC3FBBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4942F009-5870-4AE0-B808-63DB3CC3FBBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D9AC5F3-6EFA-4B51-A13A-BD7040DDA9FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D9AC5F3-6EFA-4B51-A13A-BD7040DDA9FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D9AC5F3-6EFA-4B51-A13A-BD7040DDA9FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D9AC5F3-6EFA-4B51-A13A-BD7040DDA9FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
