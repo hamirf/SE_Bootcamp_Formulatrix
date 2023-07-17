@@ -5,7 +5,7 @@ public class VideoEncoder // Publisher
 {
     public string name = "Brando";
     // 1. Define a delegate (Signature of a method) (Contract between the Publisher and Subscriber)
-    // Delegeta name convention => Event name (instance) + EventHandler
+    // Delegete name convention => Event name (instance) + EventHandler
     // public delegate void VideoEncodedEventHandler(object sender, VideoEventArgs e);
 
     // 2. Define an event based on the delegate
