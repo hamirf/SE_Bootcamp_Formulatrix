@@ -46,3 +46,4 @@
 # Lectures/Week 1/Day 5/007_Generic_Method/obj/
 **/obj
 **/bin
+.vscode/
