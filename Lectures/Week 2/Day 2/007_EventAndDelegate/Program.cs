@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Video video = new Video() { Title = "First Video" };
+        Video video = new Video("First Video");
         VideoEncoder videoEncoder = new VideoEncoder(); // Publisher
         MailService mailService = new MailService(); // Subscriber
         MessageService messageService = new MessageService(); // Subscriber
