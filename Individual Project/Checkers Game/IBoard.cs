@@ -1,7 +1,0 @@
-namespace Checkers;
-
-public interface IBoard
-{
-    int GetSize();
-    bool SetSize(int size);
-}

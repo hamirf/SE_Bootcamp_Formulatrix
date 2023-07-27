@@ -1,31 +1,20 @@
-﻿using Checkers;
+﻿using CheckersGameLib;
 
 class Program
 {
     static void Main()
     {
-        Player player1 = new Player();
-        Player player2 = new Player();
-        for (int i = 1; i <= 2; i++)
-        {
-            string name;
-            do
-            {
-                Console.WriteLine($"Enter Player {i} Name: ");
-                name = Console.ReadLine();
-            } while (name == null);
+        // 1. Add Players
+        Player player1 = new();
+        Player player2 = new();
+        GameRunner gr = new();
+        bool addPlayer = gr.AddPlayer(player1);
+        bool addPlayer2 = gr.AddPlayer(player2);
+        Console.WriteLine(addPlayer);
+        Console.WriteLine(addPlayer2);
+        System.Console.WriteLine($"Player 1 Name: {player1.GetName()}, ID = {player1.GetID()}");
+        System.Console.WriteLine($"Player 2 Name: {player2.GetName()}, ID = {player2.GetID()}");
 
-            if (i == 1)
-            {
-                player1.SetName(name);
-                player1.SetID(i);
-            }
-            else
-            {
-                player2.SetName(name);
-                player2.SetID(i);
-            }
-
-        }
+        //2. Initialize Board
     }
 }
