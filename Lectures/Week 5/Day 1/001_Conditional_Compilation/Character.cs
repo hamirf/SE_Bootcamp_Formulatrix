@@ -7,6 +7,7 @@ public class Character
     private int _health;
     private int _attack;
     private double _aspd;
+    int usedId;
 
     public Character()
     {
@@ -39,7 +40,7 @@ public class Character
     public void SetId(int id)
     {
         Random random = new Random();
-        _id = random.Next(id);
+        _id = random.Next(1, id);
     }
 
     public int GetHealth()

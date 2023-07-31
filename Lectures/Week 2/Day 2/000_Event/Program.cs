@@ -14,8 +14,6 @@ namespace Delegates
             Add += new DelEventHandler(India);
             Add += new DelEventHandler(England);
             Add.Invoke();
-
-            Console.ReadLine();
         }
         static void USA()
         {

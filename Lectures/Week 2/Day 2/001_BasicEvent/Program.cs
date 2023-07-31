@@ -28,6 +28,9 @@ class Program
         button.ButtonClick -= button.ClickAnyButton;
         button.ButtonClick += OnButtonClick;
         button.StartButton();
+
+        string y = Console.ReadLine();
+        Console.WriteLine(y);
     }
 
     public static void OnButtonClick()
