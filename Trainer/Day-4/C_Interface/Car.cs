@@ -1,6 +1,6 @@
 namespace C_Interface;
 
-public class FutureCar : ICar
+public class Car : ICar
 {
     public void Move()
     {

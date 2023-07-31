@@ -1,0 +1,6 @@
+playerPiece remove
+GameDetail
+enum RaceInfo & ClassInfo
+Position
+Method untuk menampilkan board dan position
+Add IPlayerInfo
