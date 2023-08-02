@@ -6,17 +6,17 @@ Task task = DoWorkAsync(token);
 Console.WriteLine("Press 'c' to cancel the operation.");
 if (Console.ReadKey().KeyChar == 'c')
 {
-	cts.Cancel();
+    cts.Cancel();
 }
 
 try
 {
-	await task;
-	Console.WriteLine("Operation completed.");
+    await task;
+    Console.WriteLine("Operation completed.");
 }
 catch (OperationCanceledException)
 {
-	Console.WriteLine("Operation canceled.");
+    Console.WriteLine("Operation canceled.");
 }
 
 static async Task DoWorkAsync(CancellationToken token)
