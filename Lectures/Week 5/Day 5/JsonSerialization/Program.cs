@@ -27,7 +27,7 @@ class Program
         FileStream stream = new FileStream("pieces.json", FileMode.OpenOrCreate);
         using (var jsonWriter = JsonReaderWriterFactory.CreateJsonWriter(stream, Encoding.UTF8, true, true, "\t"))
         {
-            serializer.WriteObject(piecesJson, pieces);
+            serializer.WriteObject(jsonWriter, pieces);
             jsonWriter.Flush();
         }
 
