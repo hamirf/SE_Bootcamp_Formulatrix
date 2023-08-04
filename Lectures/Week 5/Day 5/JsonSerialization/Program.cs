@@ -25,10 +25,10 @@ class Program
 
         DataContractJsonSerializer serializer = new DataContractJsonSerializer(typeof(List<Piece>));
         FileStream stream = new FileStream("pieces.json", FileMode.OpenOrCreate);
-        using (var piecesJson = JsonReaderWriterFactory.CreateJsonWriter(stream, Encoding.UTF8, true, true, "\t"))
+        using (var jsonWriter = JsonReaderWriterFactory.CreateJsonWriter(stream, Encoding.UTF8, true, true, "\t"))
         {
             serializer.WriteObject(piecesJson, pieces);
-            piecesJson.Flush();
+            jsonWriter.Flush();
         }
 
         // deserialize
