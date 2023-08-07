@@ -14,5 +14,181 @@
 			"Row": 0
 		},
 		"_rank": 0
+	},
+	{
+		"_color": 0,
+		"_position": {
+			"Column": 5,
+			"Row": 0
+		},
+		"_rank": 0
+	},
+	{
+		"_color": 0,
+		"_position": {
+			"Column": 7,
+			"Row": 0
+		},
+		"_rank": 0
+	},
+	{
+		"_color": 0,
+		"_position": {
+			"Column": 0,
+			"Row": 1
+		},
+		"_rank": 0
+	},
+	{
+		"_color": 0,
+		"_position": {
+			"Column": 2,
+			"Row": 1
+		},
+		"_rank": 0
+	},
+	{
+		"_color": 0,
+		"_position": {
+			"Column": 4,
+			"Row": 1
+		},
+		"_rank": 0
+	},
+	{
+		"_color": 0,
+		"_position": {
+			"Column": 6,
+			"Row": 1
+		},
+		"_rank": 0
+	},
+	{
+		"_color": 0,
+		"_position": {
+			"Column": 1,
+			"Row": 2
+		},
+		"_rank": 0
+	},
+	{
+		"_color": 0,
+		"_position": {
+			"Column": 3,
+			"Row": 2
+		},
+		"_rank": 0
+	},
+	{
+		"_color": 0,
+		"_position": {
+			"Column": 5,
+			"Row": 2
+		},
+		"_rank": 0
+	},
+	{
+		"_color": 0,
+		"_position": {
+			"Column": 7,
+			"Row": 2
+		},
+		"_rank": 0
+	},
+	{
+		"_color": 1,
+		"_position": {
+			"Column": 0,
+			"Row": 5
+		},
+		"_rank": 0
+	},
+	{
+		"_color": 1,
+		"_position": {
+			"Column": 2,
+			"Row": 5
+		},
+		"_rank": 0
+	},
+	{
+		"_color": 1,
+		"_position": {
+			"Column": 4,
+			"Row": 5
+		},
+		"_rank": 0
+	},
+	{
+		"_color": 1,
+		"_position": {
+			"Column": 6,
+			"Row": 5
+		},
+		"_rank": 0
+	},
+	{
+		"_color": 1,
+		"_position": {
+			"Column": 1,
+			"Row": 6
+		},
+		"_rank": 0
+	},
+	{
+		"_color": 1,
+		"_position": {
+			"Column": 3,
+			"Row": 6
+		},
+		"_rank": 0
+	},
+	{
+		"_color": 1,
+		"_position": {
+			"Column": 5,
+			"Row": 6
+		},
+		"_rank": 0
+	},
+	{
+		"_color": 1,
+		"_position": {
+			"Column": 7,
+			"Row": 6
+		},
+		"_rank": 0
+	},
+	{
+		"_color": 1,
+		"_position": {
+			"Column": 0,
+			"Row": 7
+		},
+		"_rank": 0
+	},
+	{
+		"_color": 1,
+		"_position": {
+			"Column": 2,
+			"Row": 7
+		},
+		"_rank": 0
+	},
+	{
+		"_color": 1,
+		"_position": {
+			"Column": 4,
+			"Row": 7
+		},
+		"_rank": 0
+	},
+	{
+		"_color": 1,
+		"_position": {
+			"Column": 6,
+			"Row": 5
+		},
+		"_rank": 0
 	}
 ]
