@@ -10,12 +10,21 @@ class Program
         Rank basic = Rank.Basic;
         Color black = Color.Black;
         Piece pieceOne = new Piece(position, basic, black);
-        List<Piece> pieces = new List<Piece>();
-        pieces.Add(pieceOne);
+        Piece pieceTwo = new Piece(new Position() { Row = 0, Column = 3 }, basic, black);
+        List<Piece> pieces = new List<Piece>
+        {
+            pieceOne,
+            pieceTwo
+        };
+
+        // Xml Settings
+        XmlWriterSettings settings = new XmlWriterSettings();
+        settings.Indent = true;
+        settings.NewLineOnAttributes = true;
 
         // serializer
         DataContractSerializer serializer = new DataContractSerializer(typeof(List<Piece>));
-        using (XmlWriter pieceWriter = XmlWriter.Create("pieces.xml"))
+        using (XmlWriter pieceWriter = XmlWriter.Create("pieces.xml", settings))
         {
             serializer.WriteObject(pieceWriter, pieces);
         }
@@ -30,7 +39,7 @@ class Program
 
         foreach (var piece in deserializedPieces)
         {
-            System.Console.WriteLine(piece.GetPosition());
+            System.Console.WriteLine(piece.GetPosition().Row + "," + piece.GetPosition().Column);
             System.Console.WriteLine(piece.GetRank());
             System.Console.WriteLine(piece.GetColor());
             System.Console.WriteLine();

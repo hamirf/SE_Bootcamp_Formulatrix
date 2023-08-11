@@ -1,11 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ArrayOfPiece xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/">
-    <Piece>
-        <Position>
-            <Column>1</Column>
-            <Row>0</Row>
-        </Position>
-        <_color>Black</_color>
-        <_rank>Basic</_rank>
-    </Piece>
+  <Piece>
+    <_color>Black</_color>
+    <_position>
+      <Column>1</Column>
+      <Row>0</Row>
+    </_position>
+    <_rank>Basic</_rank>
+  </Piece>
+  <Piece>
+    <_color>Black</_color>
+    <_position>
+      <Column>3</Column>
+      <Row>0</Row>
+    </_position>
+    <_rank>Basic</_rank>
+  </Piece>
 </ArrayOfPiece>
