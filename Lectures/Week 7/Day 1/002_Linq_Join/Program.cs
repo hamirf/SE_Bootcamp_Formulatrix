@@ -15,48 +15,21 @@
         List<Household> households = new List<Household>() { member1, member2, member3, member4 };
         List<Member> members = new List<Member>() { haidar, asuka, kubo, sumetal };
 
-        var joinMember = members.Join(households, m => m.Id, h => h.MemberId, (m, o) => new {});
-    }
-}
+        var householdMember = members.Join(households, m => m.Id, h => h.MemberId, (m, h) => new
+        {
+            m.Name,
+            m.Age,
+            m.Gender,
+            m.Height,
+            m.POB,
+            m.MaritalStatus,
+            h.InHouse
+        }).ToList();
 
-public class Household
-{
-    public Household()
-    {
-    }
-
-    public Household(int memberId, bool inHouse)
-    {
-        MemberId = memberId;
-        InHouse = inHouse;
-    }
-    public int MemberId { get; set; }
-    public bool InHouse { get; set; }
-}
-
-public class Member
-{
-    public Member()
-    {
-    }
-
-    public Member(int id, string name, char gender, string pOB, int age, int height, bool maritalStatus)
-    {
-        Id = id;
-        Name = name;
-        Gender = gender;
-        POB = pOB;
-        Age = age;
-        Height = height;
-        MaritalStatus = maritalStatus;
+        foreach (var member in householdMember)
+        {
+            Console.WriteLine($"{member.Name}, {member.Gender}, {member.POB}, {member.Age}, {member.Height}, {member.InHouse}");
+        }
 
     }
-    public int Id { get; set; }
-    public string Name { get; set; }
-    public char Gender { get; set; }
-    public string POB { get; set; }
-    public int Age { get; set; }
-    public int Height { get; set; }
-    public bool MaritalStatus { get; set; }
-
 }
