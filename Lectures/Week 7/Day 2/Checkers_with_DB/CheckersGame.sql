@@ -5,28 +5,28 @@ DROP TABLE IF EXISTS "Colors";
 DROP TABLE IF EXISTS "Pieces";
 
 CREATE TABLE "Players" (
-    "id" INTEGER PRIMARY KEY,
+    "id" INTEGER PRIMARY KEY AUTOINCREMENT,
     "name" ntext NOT NULL
 );
 
 CREATE TABLE "Positions" (
-    "id" INTEGER PRIMARY KEY,
+    "id" INTEGER PRIMARY KEY AUTOINCREMENT,
     "row" INTEGER NOT NULL,
     "column" INTEGER NOT NULL
 );
 
 CREATE TABLE "Ranks" (
-    "id" INTEGER PRIMARY KEY,
+    "id" INTEGER PRIMARY KEY AUTOINCREMENT,
     "rank" ntext NOT NULL
 );
 
 CREATE TABLE "Colors" (
-    "id" INTEGER PRIMARY KEY,
+    "id" INTEGER PRIMARY KEY AUTOINCREMENT,
     "color" INTEGER NOT NULL
 );
 
 CREATE TABLE "Pieces" (
-    "id" INTEGER PRIMARY KEY,
+    "id" INTEGER PRIMARY KEY AUTOINCREMENT,
     "positionId" INTEGER NOT NULL,
     "rankId" INTEGER NOT NULL,
     "colorId" INTEGER NOT NULL,
@@ -40,7 +40,7 @@ CREATE TABLE "Pieces" (
     REFERENCES "Players"
     (
         "id"
-    ),
+    ) ON DELETE CASCADE,
     CONSTRAINT "FK_Pieces_Positions" FOREIGN KEY
     (
         "positionId"
@@ -48,7 +48,7 @@ CREATE TABLE "Pieces" (
     REFERENCES "Positions"
     (
         "id"
-    ),
+    ) ON DELETE CASCADE,
     CONSTRAINT "FK_Pieces_Ranks" FOREIGN KEY
     (
         "rankId"
@@ -56,7 +56,7 @@ CREATE TABLE "Pieces" (
     REFERENCES "Ranks"
     (
         "id"
-    ),
+    ) ON DELETE CASCADE,
     CONSTRAINT "FK_Pieces_Colors" FOREIGN KEY
     (
         "colorId"
@@ -64,7 +64,7 @@ CREATE TABLE "Pieces" (
     REFERENCES "Colors"
     (
         "id"
-    )
+    ) ON DELETE CASCADE
 );
 
 -- INSERT INTO "Players"
