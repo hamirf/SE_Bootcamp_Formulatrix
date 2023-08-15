@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.EntityFrameworkCore;
 
-namespace Checkers.Database.AutoModels;
+namespace CheckersGame.Model;
 
 public partial class Piece
 {

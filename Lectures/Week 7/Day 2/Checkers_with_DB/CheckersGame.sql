@@ -67,9 +67,9 @@ CREATE TABLE "Pieces" (
     )
 );
 
-INSERT INTO "Players"
-               VALUES(1, 'Haidar'),
-                     (2, 'Asuka');
+-- INSERT INTO "Players"
+--                VALUES(1, 'Haidar'),
+--                      (2, 'Asuka');
 
 INSERT INTO "Positions"
                VALUES(1, 0, 1),

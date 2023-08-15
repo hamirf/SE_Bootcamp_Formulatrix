@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.EntityFrameworkCore;
 
-namespace Checkers.Database.AutoModels;
+namespace CheckersGame.Model;
 
 public partial class Rank
 {
@@ -13,7 +13,7 @@ public partial class Rank
     public long Id { get; set; }
 
     [Column("rank", TypeName = "ntext")]
-    public string Rank1 { get; set; } = null!;
+    public string Name { get; set; } = null!;
 
     [InverseProperty("Rank")]
     public virtual ICollection<Piece> Pieces { get; set; } = new List<Piece>();

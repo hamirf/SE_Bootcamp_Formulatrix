@@ -4,20 +4,17 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.EntityFrameworkCore;
 
-namespace Checkers.Database.AutoModels;
+namespace CheckersGame.Model;
 
-public partial class Position
+public partial class Player
 {
     [Key]
     [Column("id")]
     public long Id { get; set; }
 
-    [Column("row")]
-    public long Row { get; set; }
+    [Column("name", TypeName = "ntext")]
+    public string Name { get; set; } = null!;
 
-    [Column("column")]
-    public long Column { get; set; }
-
-    [InverseProperty("Position")]
+    [InverseProperty("Player")]
     public virtual ICollection<Piece> Pieces { get; set; } = new List<Piece>();
 }
