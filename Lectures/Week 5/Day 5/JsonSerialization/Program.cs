@@ -24,18 +24,18 @@ class Program
         // };
 
         DataContractJsonSerializer serializer = new DataContractJsonSerializer(typeof(List<Piece>));
-        FileStream stream = new FileStream("pieces.json", FileMode.OpenOrCreate);
-        using (var jsonWriter = JsonReaderWriterFactory.CreateJsonWriter(stream, Encoding.UTF8, true, true, "\t"))
-        {
-            serializer.WriteObject(jsonWriter, pieces);
-            jsonWriter.Flush();
-        }
+        // FileStream stream = new FileStream("pieces.json", FileMode.OpenOrCreate);
+        // using (var jsonWriter = JsonReaderWriterFactory.CreateJsonWriter(stream, Encoding.UTF8, true, true, "\t"))
+        // {
+        //     serializer.WriteObject(jsonWriter, pieces);
+        //     jsonWriter.Flush();
+        // }
 
         // deserialize
-        List<Piece>? deserializedPieces;
+        List<Piece> deserializedPieces;
         using (FileStream deserializedPiecesJson = new FileStream("pieces.json", FileMode.OpenOrCreate))
         {
-            deserializedPieces = (List<Piece>?)serializer.ReadObject(deserializedPiecesJson);
+            deserializedPieces = (List<Piece>)serializer.ReadObject(deserializedPiecesJson);
         }
 
         foreach (var piece in deserializedPieces)

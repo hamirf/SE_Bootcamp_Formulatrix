@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Explore_Linq", "001_Exp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Linq_Join", "002_Linq_Join\002_Linq_Join.csproj", "{63B8144F-A116-4207-B547-4A7030E1B533}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Entity_Framework", "003_Entity_Framework\003_Entity_Framework.csproj", "{446B4DB1-89AE-4DB2-8C11-D1A4E652EF52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{63B8144F-A116-4207-B547-4A7030E1B533}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63B8144F-A116-4207-B547-4A7030E1B533}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63B8144F-A116-4207-B547-4A7030E1B533}.Release|Any CPU.Build.0 = Release|Any CPU
+		{446B4DB1-89AE-4DB2-8C11-D1A4E652EF52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{446B4DB1-89AE-4DB2-8C11-D1A4E652EF52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{446B4DB1-89AE-4DB2-8C11-D1A4E652EF52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{446B4DB1-89AE-4DB2-8C11-D1A4E652EF52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
