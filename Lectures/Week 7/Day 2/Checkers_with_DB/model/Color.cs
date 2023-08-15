@@ -12,8 +12,8 @@ public partial class Color
     [Column("id")]
     public long Id { get; set; }
 
-    [Column("color")]
-    public long Name { get; set; }
+    [Column("color", TypeName = "ntext")]
+    public string? Variety { get; set; }
 
     [InverseProperty("Color")]
     public virtual ICollection<Piece> Pieces { get; set; } = new List<Piece>();

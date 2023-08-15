@@ -1,9 +1,13 @@
 ﻿using CheckersGame.Model;
+using CheckersGame.Enum;
 
 namespace Checkers_with_DB;
 
 partial class Program
 {
+    static string alphabet = "abcdefghijklmnopqrstuvwxyz";
+    static string numbers = "0123456789";
+
     static void Main(string[] args)
     {
         Checkers db = new Checkers();
@@ -35,17 +39,16 @@ partial class Program
                 case "1":
                     ReadDatas();
                     break;
-                case "2":
-                    Print("Create Still on Development");
-                    // CreateDatas();
+                case "2": // CreateDatas();
+                    CreateDatas();
                     break;
-                case "3":
+                case "3": // UpdateDatas();
                     Print("Update Still on Development");
-                    // UpdateDatas();
+                    Print("");
                     break;
-                case "4":
+                case "4": // DeleteDatas();
                     Print("Delete Still on Development");
-                    // DeleteDatas();
+                    Print("");
                     break;
                 case "0":
                     isValidInput = true;
@@ -96,7 +99,6 @@ partial class Program
                     break;
                 case "99":
                     isValidInput = true;
-                    MenuProgram();
                     break;
                 default:
                     Print("Invalid input! Please try again.");
@@ -105,58 +107,59 @@ partial class Program
         }
     }
 
-    // static void CreateDatas()
-    // {
-    //     int input;
-    //     bool isValidInput = false;
-    //     Clear();
+    private static void CreateDatas()
+    {
+        string? input;
+        bool isValidInput = false;
+        Clear();
 
-    //     while (!isValidInput)
-    //     {
-    //         Print("==========Read Checkers Database==========");
-    //         Print("Select from options below: ");
-    //         Print("1] Create New Data at Players Table");
-    //         Print("2] Create New Data at Positions Table");
-    //         Print("3] Create New Data at Ranks Table");
-    //         Print("4] Create New Data at Colors Table");
-    //         Print("5] Create New Data at Pieces Table");
-    //         Print("99] Back");
+        while (!isValidInput)
+        {
+            Print("==========Read Checkers Database==========");
+            Print("Select from options below: ");
+            Print("1] Create New Data at Players Table");
+            Print("2] Create New Data at Positions Table");
+            Print("3] Create New Data at Ranks Table");
+            Print("4] Create New Data at Colors Table");
+            Print("5] Create New Data at Pieces Table");
+            Print("99] Back");
 
-    //         switch (input)
-    //         {
-    //             case 1:
-    //                 CreatePlayersData();
-    //                 break;
-    //             case 2:
-    //                 CreatePositionsData();
-    //                 break;
-    //             case 3:
-    //                 CreateRanksData();
-    //                 break;
-    //             case 4:
-    //                 CreateColorsData();
-    //                 break;
-    //             case 5:
-    //                 CreatePiecesData();
-    //                 break;
-    //             case 99:
-    //                 isValidInput = true;
-    //                 MenuProgram();
-    //                 break;
-    //             default:
-    //                 Print("Invalid input! Please try again.");
-    //                 break;
-    //         }
-    //     }
-    // }
+            Console.Write("Enter a command: ");
+            input = GetInput();
+
+            switch (input)
+            {
+                case "1":
+                    CreatePlayersData();
+                    break;
+                case "2":
+                    CreatePositionsData();
+                    break;
+                case "3":
+                    CreateRanksData();
+                    break;
+                case "4":
+                    CreateColorsData();
+                    break;
+                case "5":
+                    CreatePiecesData();
+                    break;
+                case "99":
+                    isValidInput = true;
+                    break;
+                default:
+                    Print("Invalid input! Please try again.");
+                    break;
+            }
+        }
+    }
 
     // static void UpdateDatas()
     // {
-    //     int input;
+    //     string? input;
     //     bool isValidInput = false;
     //     Clear();
 
-    //     input = GetIntegerInput();
     //     while (!isValidInput)
     //     {
     //         Print("==========Read Checkers Database==========");
@@ -168,24 +171,27 @@ partial class Program
     //         Print("5] Update Data at Pieces Table");
     //         Print("99] Back");
 
+    //         Console.Write("Enter a command: ");
+    //         input = GetInput();
+
     //         switch (input)
     //         {
-    //             case 1:
+    //             case "1":
     //                 UpdatePlayersData();
     //                 break;
-    //             case 2:
+    //             case "2":
     //                 UpdatePositionsData();
     //                 break;
-    //             case 3:
+    //             case "3":
     //                 UpdateRanksData();
     //                 break;
-    //             case 4:
+    //             case "4":
     //                 UpdateColorsData();
     //                 break;
-    //             case 5:
+    //             case "5":
     //                 UpdatePiecesData();
     //                 break;
-    //             case 99:
+    //             case "99":
     //                 isValidInput = true;
     //                 MenuProgram();
     //                 break;
@@ -198,11 +204,10 @@ partial class Program
 
     // static void DeleteDatas()
     // {
-    //     int input;
+    //     string? input;
     //     bool isValidInput = false;
     //     Clear();
 
-    //     input = GetIntegerInput();
     //     while (!isValidInput)
     //     {
     //         Print("==========Read Checkers Database==========");
@@ -214,26 +219,28 @@ partial class Program
     //         Print("5] Delete Data from Pieces Table");
     //         Print("99] Back");
 
+    //         Console.Write("Enter a command: ");
+    //         input = GetInput();
+
     //         switch (input)
     //         {
-    //             case 1:
+    //             case "1":
     //                 DeletePlayersData();
     //                 break;
-    //             case 2:
+    //             case "2":
     //                 DeletePositionsData();
     //                 break;
-    //             case 3:
+    //             case "3":
     //                 DeleteRanksData();
     //                 break;
-    //             case 4:
+    //             case "4":
     //                 DeleteColorsData();
     //                 break;
-    //             case 5:
+    //             case "5":
     //                 DeletePiecesData();
     //                 break;
-    //             case 99:
+    //             case "99":
     //                 isValidInput = true;
-    //                 MenuProgram();
     //                 break;
     //             default:
     //                 Print("Invalid input! Please try again.");
@@ -241,4 +248,5 @@ partial class Program
     //         }
     //     }
     // }
+
 }

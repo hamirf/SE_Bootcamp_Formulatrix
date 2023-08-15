@@ -67,10 +67,10 @@ partial class Program
                 return;
             }
 
-            Info($"ToQueryString: {ranks.ToQueryString}");
+            Info($"ToQueryString: {ranks.ToQueryString()}");
             foreach (var rank in ranks)
             {
-                Print($"{rank.Name} id is {rank.Id}, and it has {rank.Pieces.Count} pieces");
+                Print($"{rank.Variety} id is {rank.Id}, and it has {rank.Pieces.Count} pieces");
             }
         }
     }
@@ -93,7 +93,7 @@ partial class Program
             Info($"ToQueryString: {colors.ToQueryString()}");
             foreach (var color in colors)
             {
-                Print($"{color.Name} with id {color.Id} has {color.Pieces.Count} pieces");
+                Print($"{color.Variety} with id {color.Id} has {color.Pieces.Count} pieces");
             }
         }
     }
@@ -119,7 +119,7 @@ partial class Program
             Info($"ToQueryString: {pieces.ToQueryString()}");
             foreach (var piece in pieces)
             {
-                Print($"{piece.Id}. Piece with {piece.Position.Row},{piece.Position.Column} coordinate, {piece.Rank.Name} rank, and {piece.Color.Name} color is owned by {piece.Player?.Name}");
+                Print($"{piece.Id}. Piece with {piece.Position.Row},{piece.Position.Column} coordinate, {piece.Rank.Variety} rank, and {piece.Color.Variety} color is owned by {piece.Player?.Name}");
             }
         }
     }

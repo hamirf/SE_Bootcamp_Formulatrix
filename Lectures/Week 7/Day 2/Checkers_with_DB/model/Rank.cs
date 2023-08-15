@@ -13,7 +13,7 @@ public partial class Rank
     public long Id { get; set; }
 
     [Column("rank", TypeName = "ntext")]
-    public string Name { get; set; } = null!;
+    public string? Variety { get; set; } = null!;
 
     [InverseProperty("Rank")]
     public virtual ICollection<Piece> Pieces { get; set; } = new List<Piece>();
