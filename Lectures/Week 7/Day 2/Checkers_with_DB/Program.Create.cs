@@ -253,7 +253,7 @@ partial class Program
     {
         using (Checkers db = new Checkers())
         {
-            SectionTitle("========== Create New Data on Pieces Table");
+            SectionTitle("========== Create New Data on Pieces Table ==========");
 
             int posId;
             int rankId;
