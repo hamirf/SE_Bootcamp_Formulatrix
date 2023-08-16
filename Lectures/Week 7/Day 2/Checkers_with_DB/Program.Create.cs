@@ -60,7 +60,7 @@ partial class Program
     {
         using (Checkers db = new Checkers())
         {
-            SectionTitle("========== Create New Data on Positions Table");
+            SectionTitle("========== Create New Data on Positions Table ==========");
 
             string? rowStr;
             string? columnStr;
@@ -226,7 +226,7 @@ partial class Program
                     goto InputColor;
                 }
 
-                var colors = db.Colors?.Where(c => c.Variety == pieceColor);
+                var colors = db.Colors?.Where(c => c.variety == pieceColor);
                 if (colors == null || !colors.Any())
                 {
                     isColorValid = true;
@@ -240,7 +240,7 @@ partial class Program
                 }
             } while (!isColorValid);
 
-            Color color = new Color() { Variety = pieceColor };
+            Color color = new Color() { variety = pieceColor };
 
             db.Colors?.Add(color);
             db.SaveChanges();
@@ -298,15 +298,15 @@ partial class Program
 
             do
             {
-                colors = db.Colors?.OrderBy(c => c.Id).Distinct();
+                colors = db.Colors?.OrderBy(c => c.id).Distinct();
                 Print("========== Id of Colors Table ==========");
                 foreach (var color in colors)
                 {
-                    Print($"\tColorId: {color.Id}");
+                    Print($"\tColorId: {color.id}");
                 }
                 Print("Enter existing ColorId: ");
                 colorId = Convert.ToInt32(GetInput());
-                colors = db.Colors?.Where(c => c.Id == colorId);
+                colors = db.Colors?.Where(c => c.id == colorId);
             } while (colors == null);
 
             do

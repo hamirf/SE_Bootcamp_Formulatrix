@@ -39,14 +39,14 @@ partial class Program
                 case "1":
                     ReadDatas();
                     break;
-                case "2": // CreateDatas();
+                case "2":
                     CreateDatas();
                     break;
-                case "3": // UpdateDatas();
-                    Print("Update Still on Development");
-                    Print("");
+                case "3":
+                    UpdateDatas();
                     break;
-                case "4": // DeleteDatas();
+                case "4":
+                    // DeleteDatas();
                     Print("Delete Still on Development");
                     Print("");
                     break;
@@ -154,53 +154,53 @@ partial class Program
         }
     }
 
-    // static void UpdateDatas()
-    // {
-    //     string? input;
-    //     bool isValidInput = false;
-    //     Clear();
+    static void UpdateDatas()
+    {
+        string? input;
+        bool isValidInput = false;
+        Clear();
 
-    //     while (!isValidInput)
-    //     {
-    //         Print("==========Read Checkers Database==========");
-    //         Print("Select from options below: ");
-    //         Print("1] Update Data at Players Table");
-    //         Print("2] Update Data at Positions Table");
-    //         Print("3] Update Data at Ranks Table");
-    //         Print("4] Update Data at Colors Table");
-    //         Print("5] Update Data at Pieces Table");
-    //         Print("99] Back");
+        while (!isValidInput)
+        {
+            Print("==========Read Checkers Database==========");
+            Print("Select from options below: ");
+            Print("1] Update Data at Players Table");
+            Print("2] Update Data at Positions Table");
+            Print("3] Update Data at Ranks Table");
+            Print("4] Update Data at Colors Table");
+            Print("5] Update Data at Pieces Table");
+            Print("99] Back");
 
-    //         Console.Write("Enter a command: ");
-    //         input = GetInput();
+            Console.Write("Enter a command: ");
+            input = GetInput();
 
-    //         switch (input)
-    //         {
-    //             case "1":
-    //                 UpdatePlayersData();
-    //                 break;
-    //             case "2":
-    //                 UpdatePositionsData();
-    //                 break;
-    //             case "3":
-    //                 UpdateRanksData();
-    //                 break;
-    //             case "4":
-    //                 UpdateColorsData();
-    //                 break;
-    //             case "5":
-    //                 UpdatePiecesData();
-    //                 break;
-    //             case "99":
-    //                 isValidInput = true;
-    //                 MenuProgram();
-    //                 break;
-    //             default:
-    //                 Print("Invalid input! Please try again.");
-    //                 break;
-    //         }
-    //     }
-    // }
+            switch (input)
+            {
+                case "1":
+                    UpdatePlayersData();
+                    break;
+                case "2":
+                    UpdatePositionsData();
+                    break;
+                case "3":
+                    UpdateRanksData();
+                    break;
+                case "4":
+                    UpdateColorsData();
+                    break;
+                case "5":
+                    UpdatePiecesData();
+                    break;
+                case "99":
+                    isValidInput = true;
+                    MenuProgram();
+                    break;
+                default:
+                    Print("Invalid input! Please try again.");
+                    break;
+            }
+        }
+    }
 
     // static void DeleteDatas()
     // {

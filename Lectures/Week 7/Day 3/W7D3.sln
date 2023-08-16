@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Coba_Inheritance", "001_Coba_Inheritance\001_Coba_Inheritance.csproj", "{6709F42D-88E6-4ED8-9FAE-3E5DEEC2F63D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Decorator_Design_Pattern", "002_Decorator_Design_Pattern\002_Decorator_Design_Pattern.csproj", "{F91FEDAD-3618-4B85-AA39-8C4E14C50DF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6709F42D-88E6-4ED8-9FAE-3E5DEEC2F63D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6709F42D-88E6-4ED8-9FAE-3E5DEEC2F63D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6709F42D-88E6-4ED8-9FAE-3E5DEEC2F63D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6709F42D-88E6-4ED8-9FAE-3E5DEEC2F63D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F91FEDAD-3618-4B85-AA39-8C4E14C50DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F91FEDAD-3618-4B85-AA39-8C4E14C50DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F91FEDAD-3618-4B85-AA39-8C4E14C50DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F91FEDAD-3618-4B85-AA39-8C4E14C50DF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

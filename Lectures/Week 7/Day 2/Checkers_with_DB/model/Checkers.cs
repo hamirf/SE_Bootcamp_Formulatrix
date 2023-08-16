@@ -27,7 +27,7 @@ public partial class Checkers : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         // #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlite("Filename=Checkers.db");
+        => optionsBuilder.UseSqlite("Filename=CheckersGame.db");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -42,11 +42,11 @@ public partial class Checkers : DbContext
             entity.Property(e => e.IsEaten).HasDefaultValueSql("0");
             entity.Property(e => e.IsKinged).HasDefaultValueSql("0");
 
-            entity.HasOne(d => d.Color).WithMany(p => p.Pieces).OnDelete(DeleteBehavior.ClientSetNull);
+            entity.HasOne(d => d.Color).WithMany(p => p.Pieces).OnDelete(DeleteBehavior.ClientCascade);
 
-            entity.HasOne(d => d.Position).WithMany(p => p.Pieces).OnDelete(DeleteBehavior.ClientSetNull);
+            entity.HasOne(d => d.Position).WithMany(p => p.Pieces).OnDelete(DeleteBehavior.ClientCascade);
 
-            entity.HasOne(d => d.Rank).WithMany(p => p.Pieces).OnDelete(DeleteBehavior.ClientSetNull);
+            entity.HasOne(d => d.Rank).WithMany(p => p.Pieces).OnDelete(DeleteBehavior.ClientCascade);
         });
 
         modelBuilder.Entity<Player>(entity =>
