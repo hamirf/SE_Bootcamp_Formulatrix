@@ -2,44 +2,22 @@
 {
     static void Main(string[] args)
     {
+        Client you = new Client();
+        Shape ordiCircle = new Circle();
+        Shape ordiRectangle = new Rectangle();
 
+        BorderColor redCircle = new BorderColor(ordiCircle, "Red");
+        BorderColor blueRectangle = new BorderColor(ordiRectangle, "Blue");
+        BorderThickness blue2Rectangle = new BorderThickness(blueRectangle, 2);
+
+        Console.WriteLine("======= Shape with basic behaviours =======");
+        you.ClientCode(ordiCircle);
+        you.ClientCode(ordiRectangle);
+
+        Console.WriteLine("======= Shape with extra behaviours =======");
+        you.ClientCode(redCircle);
+        Console.WriteLine("-------------------- 1 --------------------");
+        you.ClientCode(blue2Rectangle);
+        Console.WriteLine("-------------------- 2 --------------------");
     }
-}
-
-public abstract class Shape
-{
-    public abstract void Draw();
-}
-
-public class Circle : Shape
-{
-    public override void Draw()
-    {
-        Console.WriteLine("Shape: Circle");
-    }
-}
-
-public class Rectangle : Shape
-{
-    public override void Draw()
-    {
-        Console.WriteLine("Shape: Rectangle");
-    }
-}
-
-public abstract class ShapeDecorator
-{
-    protected Shape shape;
-
-    public ShapeDecorator(Shape shape)
-    {
-        this.shape = shape;
-    }
-
-    public void SetShape(Shape shape)
-    {
-        this.shape = shape;
-    }
-
-    public override
 }
