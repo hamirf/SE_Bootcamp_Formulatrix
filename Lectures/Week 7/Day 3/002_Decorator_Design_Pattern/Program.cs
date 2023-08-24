@@ -19,5 +19,9 @@
         Console.WriteLine("-------------------- 1 --------------------");
         you.ClientCode(blue2Rectangle);
         Console.WriteLine("-------------------- 2 --------------------");
+
+        object x = 2;
+         
+        Console.WriteLine(x.ToString());
     }
 }
